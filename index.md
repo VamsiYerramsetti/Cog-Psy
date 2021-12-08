@@ -16,6 +16,4 @@ salesperson. Perception and Psychophysics, 61, 1227-1238.)
 ## Author Contribution
 
 
-### Markdown
-
 
